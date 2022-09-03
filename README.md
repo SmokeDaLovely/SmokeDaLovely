@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmokeDaLovely
-- 👀 I’m interested in learning cyber security 
-- 🌱 I’m currently learning how to clone phones 
+- 👀 I’m interested in learning how to clone phones
+- 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tjcollins0420@gmail.com
 
